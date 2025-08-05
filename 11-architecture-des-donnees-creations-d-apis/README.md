@@ -147,7 +147,7 @@ Une collection Postman complète est disponible avec tous les endpoints de test.
 
 ## 🎥 Vidéo Explicative
 
-**[VIDÉO À AJOUTER]**
+**[VIDÉO](https://youtu.be/gmafDkfvyEk)**
 
 _Lien vers la vidéo explicative du code et du projet_
 
